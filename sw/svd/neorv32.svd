@@ -21,6 +21,7 @@
     <itcmPresent>true</itcmPresent>
     <dtcmPresent>true</dtcmPresent>
     <nvicPrioBits>4</nvicPrioBits>
+    <vendorSystickConfig>false</vendorSystickConfig>
   </cpu>
 
   <!-- defaults for all peripherals -->
